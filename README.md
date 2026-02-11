@@ -1,16 +1,29 @@
 ## Hi there 👋
+🚀 Professional & Ambitious
 
-<!--
-**shettyadi57/shettyadi57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+“BCA student and passionate developer building clean, efficient, and impactful software solutions.”
 
-Here are some ideas to get you started:
+💻 Tech-Focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“Turning ideas into code — exploring C, python and modern web technologies.”
+
+🌱 Growth Mindset
+
+“Consistently learning, building, and improving — one project at a time.”
+
+🔥 Confident Developer Vibe
+
+“Aspiring software engineer focused on problem-solving, performance, and real-world projects.”
+
+🎯 Career-Oriented
+
+“Future-ready developer preparing for top tech roles through strong fundamentals and hands-on projects.”
+
+🌐 Full Stack Direction
+
+“Building responsive web experiences and strong backend logic with a passion for clean design and code.”
+
+🧠 Problem Solver
+
+“I don’t just write code — I solve problems using logic, creativity, and technology.”
+
