@@ -77,23 +77,19 @@
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shettyadi57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adithya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shettyadi57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Adithya's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettyadi57&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettyadi57&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shettyadi57&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shettyadi57&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### 💡 Daily Engineering Mindset
-
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark" alt="Daily Tech Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shettyadi57&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
