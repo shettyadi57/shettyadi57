@@ -36,6 +36,14 @@
 
 ---
 
+### 🏆 GitHub Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shettyadi57&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Adithya's Trophies" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Skill Matrix
 
 #### 1️⃣ Languages & Fundamentals
@@ -77,7 +85,7 @@
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shettyadi57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Adithya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shettyadi57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions,prs,issues,contributions" alt="Adithya's GitHub Stats" />
 </p>
 
 <p align="center">
